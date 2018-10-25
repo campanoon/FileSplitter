@@ -1,4 +1,3 @@
-package com.campanoon;
 
 import java.io.*;
 import java.util.Arrays;
@@ -68,5 +67,3 @@ class ProcessFile {
         }
     }
 }
-
-
