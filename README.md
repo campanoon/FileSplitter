@@ -1,5 +1,5 @@
-# FileSplitter
-Simple Java application that divides files according to a number of lines / rows indicated.
+# File Splitter
+Simple Java application that split files according to a number of lines / rows indicated.
 
 Add a file path/name and a number of lines to the argument and this application split your file in as many files as required.
 
